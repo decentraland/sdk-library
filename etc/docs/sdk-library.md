@@ -9,6 +9,7 @@
 |  Class | Description |
 |  --- | --- |
 |  [ExampleComponent](./sdk-library.examplecomponent.md) |  |
+|  [TimeSystem](./sdk-library.timesystem.md) |  |
 
 ## Functions
 

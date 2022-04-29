@@ -1,3 +1,7 @@
+/**
+ * @returns A Timer system
+ * @public
+ */
 export class TimeSystem implements ISystem {
   time: number = 0
 

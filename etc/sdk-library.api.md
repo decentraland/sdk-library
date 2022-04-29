@@ -4,6 +4,8 @@
 
 ```ts
 
+/// <reference types="dcl" />
+
 // @public (undocumented)
 export const constant = "constant";
 
@@ -16,6 +18,14 @@ export class ExampleComponent {
 
 // @public (undocumented)
 export function someFn(): string;
+
+// @public (undocumented)
+export class TimeSystem implements ISystem {
+    // (undocumented)
+    time: number;
+    // (undocumented)
+    update(dt: number): void;
+}
 
 // (No @packageDocumentation comment for this package)
 
