@@ -11,5 +11,6 @@
     "noEmit": true,
     "experimentalDecorators": true,
     "moduleResolution": "node"
-  }
+  },
+  "files": ["../node_modules/decentraland-ecs/types/dcl/index.d.ts"]
 }
